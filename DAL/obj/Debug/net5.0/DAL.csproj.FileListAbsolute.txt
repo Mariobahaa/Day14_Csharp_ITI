@@ -1,0 +1,12 @@
+E:\My Programs\ITIC#\Day14\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Programs\ITIC#\Day14\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+E:\My Programs\ITIC#\Day14\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+E:\My Programs\ITIC#\Day14\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+E:\My Programs\ITIC#\Day14\DAL\bin\Debug\net5.0\DAL.dll.config
+E:\My Programs\ITIC#\Day14\DAL\bin\Debug\net5.0\DAL.deps.json
+E:\My Programs\ITIC#\Day14\DAL\bin\Debug\net5.0\DAL.dll
+E:\My Programs\ITIC#\Day14\DAL\bin\Debug\net5.0\ref\DAL.dll
+E:\My Programs\ITIC#\Day14\DAL\bin\Debug\net5.0\DAL.pdb
+E:\My Programs\ITIC#\Day14\DAL\obj\Debug\net5.0\DAL.dll
+E:\My Programs\ITIC#\Day14\DAL\obj\Debug\net5.0\ref\DAL.dll
+E:\My Programs\ITIC#\Day14\DAL\obj\Debug\net5.0\DAL.pdb
